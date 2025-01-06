@@ -20,12 +20,12 @@ This repository contains two Python scripts that execute the 4DEnVar method. The
 To test the script, a simplified version has been adapted so that the optimisation can be run using the output file present in this repository without the need for the ORCHIDAS software.
 Following the unzipping of the ZIP file, which is located in the `data` directory, 
 
-  $ unzip VCMAX.zip
-  $ unzip 5P.zip
+    $ unzip VCMAX.zip
+    $ unzip 5P.zip
   
 the `Example.py` script can be run to initiate the optimisation process.
 
-  $ python Example.py
+    $ python Example.py
 
 Reference publications
 ======================
