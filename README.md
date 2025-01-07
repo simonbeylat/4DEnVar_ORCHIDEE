@@ -11,7 +11,7 @@ An application of 4DEnVar to assimilate Atmospheric CO2 Concentration Data for p
 Installation
 ============
 
-We recommend that you install and use the conda environment provided in this repository. 
+We recommend to install and use the conda environment provided in this repository. 
 
     $ conda install -c conda-forge --name 4DEnVar --file requirements.txt 
     $ conda activate 4DEnVar
