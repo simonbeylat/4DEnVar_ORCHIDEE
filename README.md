@@ -1,9 +1,7 @@
 4DEnVar ORCHIDEE
 =========================
 
-<!---
-"[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10592299.svg)](https://doi.org/10.5281/zenodo.10592299)
--->
+[![DOI](https://zenodo.org/badge/912884639.svg)](https://doi.org/10.5281/zenodo.14609415)
 
 
 An application of 4DEnVar to assimilate Atmospheric CO2 Concentration Data for parameter calibration in ORCHIDEE Land Surface Model
