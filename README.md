@@ -6,7 +6,7 @@
 -->
 
 
-An application of 4DEnVar to assimilate Atmospheric CO2 Concentration Data in ORCHIDEE Land Surface Model
+An application of 4DEnVar to assimilate Atmospheric CO2 Concentration Data for parameter calibration in ORCHIDEE Land Surface Model
 
 Installation
 ============
